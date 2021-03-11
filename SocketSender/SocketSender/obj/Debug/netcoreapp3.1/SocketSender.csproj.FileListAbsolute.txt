@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\SocketSender\SocketSender\bin\Debug\netcoreapp3.1\SocketSender.exe
+C:\Users\ASUS\source\repos\SocketSender\SocketSender\bin\Debug\netcoreapp3.1\SocketSender.deps.json
+C:\Users\ASUS\source\repos\SocketSender\SocketSender\bin\Debug\netcoreapp3.1\SocketSender.runtimeconfig.json
+C:\Users\ASUS\source\repos\SocketSender\SocketSender\bin\Debug\netcoreapp3.1\SocketSender.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\SocketSender\SocketSender\bin\Debug\netcoreapp3.1\SocketSender.dll
+C:\Users\ASUS\source\repos\SocketSender\SocketSender\bin\Debug\netcoreapp3.1\SocketSender.pdb
+C:\Users\ASUS\source\repos\SocketSender\SocketSender\obj\Debug\netcoreapp3.1\SocketSender.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\SocketSender\SocketSender\obj\Debug\netcoreapp3.1\SocketSender.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\SocketSender\SocketSender\obj\Debug\netcoreapp3.1\SocketSender.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\SocketSender\SocketSender\obj\Debug\netcoreapp3.1\SocketSender.dll
+C:\Users\ASUS\source\repos\SocketSender\SocketSender\obj\Debug\netcoreapp3.1\SocketSender.pdb
+C:\Users\ASUS\source\repos\SocketSender\SocketSender\obj\Debug\netcoreapp3.1\SocketSender.genruntimeconfig.cache
